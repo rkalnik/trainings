@@ -1,0 +1,6 @@
+C:\Solutions_RK\ConsoleApplication_test1\ConsoleApplication_test1\bin\Debug\ConsoleApplication_test1.exe.config
+C:\Solutions_RK\ConsoleApplication_test1\ConsoleApplication_test1\bin\Debug\ConsoleApplication_test1.exe
+C:\Solutions_RK\ConsoleApplication_test1\ConsoleApplication_test1\bin\Debug\ConsoleApplication_test1.pdb
+C:\Solutions_RK\ConsoleApplication_test1\ConsoleApplication_test1\obj\Debug\ConsoleApplication_test1.csprojResolveAssemblyReference.cache
+C:\Solutions_RK\ConsoleApplication_test1\ConsoleApplication_test1\obj\Debug\ConsoleApplication_test1.exe
+C:\Solutions_RK\ConsoleApplication_test1\ConsoleApplication_test1\obj\Debug\ConsoleApplication_test1.pdb
