@@ -1,0 +1,13 @@
+#ignoruj pliki konczace sie na .o lub .a np. pliki obiektów i archiwa, które moga byc produktem kompilacji kodu
+*.[oa]
+# komentarz — ta linia jest ignorowana
+# zadnych plików .a
+*.a
+# ale uwzgledniaj lib.a, pomimo ignorowania .a w linijce powyzej
+!lib.a
+# ignoruj plik TODO w katalogu glównym, ale nie podkatalog/TODO
+/TODO
+# ignoruj wszystkie pliki znajdujace sie w katalogu build/
+build/
+# ignoruj doc/notatki.txt, ale nie doc/server/arch.txt
+doc/*.txt

@@ -1,3 +1,49 @@
 Hello test 2
 1st change
 2nd change
+3rd change
+add change after commit
+
+
+My Repository on GitHub
+https://github.com
+u:rkalnik
+
+https://github.com/rkalnik/trainings.git
+
+Ustawienie zmiennych:
+git config --list
+git config --global user.name "YOUR NAME"
+git config --global user.email "YOUR EMAIL ADDRESS"
+
+stworzenie pliku test.txt z zawartością Hello
+$ echo "Hello" > test.txt
+
+Dodanie do repozytorium (sledzenie-stage are):
+$ git status
+$ git add *.c
+$ git add README
+
+Commit z message:
+$ git commit -m 'initial project version'
+
+Wypychanie zmian na serwer
+git push [nazwa-zdalnego-repo] [nazwa-gałęzi]
+git push origin master
+
+Pobranie z repozytorium (w SVN checkout):
+git clone https://rkalnik@euromoneyplc.com@stash.euromoneydigital.com/scm/ath/athena.git
+git clone https://rkalnik@stash.euromoneydigital.com/scm/ath/athena-data.git
+git clone https://rkalnik@stash.euromoneydigital.com/scm/ath/athena.frontend.git
+git clone https://rkalnik@stash.euromoneydigital.com/scm/ath/hfi.git
+
+Usuwanie plików z lokalnego i zdalnego repo:
+Use commands :
+
+git rm /path to file name /
+followed by
+
+git commit -m "Your Comment"
+
+git push
+your files will get deleted from the repository
