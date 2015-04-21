@@ -13,19 +13,19 @@ namespace ConsoleApplication_test1
 			const string title = "Kalkulator v. 1.0";
 			// nadanie wartości dla właściwości
 			Console.Title = title;
-			
-			//const string message = "Nacisnij klawisz Enter, aby obliczyć kwadrat liczby ";
-			//string liczba;
-			//int x = 3;
-			//string imie = "Rafal";
-			
-			//// określenie koloru tła (niebieski)
+
+			const string message = "Nacisnij klawisz Enter, aby obliczyć kwadrat liczby ";
+			string liczba;
+			int x = 3;
+			string imie = "Rafal";
+
+			// określenie koloru tła (niebieski)
 			//Console.BackgroundColor = ConsoleColor.Blue;
 			////ustaw położenie tekstu
 			//Console.SetCursorPosition(1, 5);
 			//Console.WriteLine("Semka podaj liczbę, aby obliczyć jej kwadrat");
 			//liczba = Console.ReadLine();
-			//Console.WriteLine(message+liczba);
+			//Console.WriteLine(message + liczba);
 			//Console.WriteLine("Podaj wartość dla X");
 			
 			//if (x >= 5)
@@ -67,15 +67,15 @@ namespace ConsoleApplication_test1
 			//Console.WriteLine(Foo[FooLength - 1]);
 
 			////////////////////////////////////////////////////////////////////
-			Console.WriteLine("PRZYKLAD petli WHILE !");
-			int X = 1;
+			//Console.WriteLine("PRZYKLAD petli WHILE !");
+			//int X = 1;
 
-			while (X <= 10)
-			{
-				Console.WriteLine("Odliczanie..." + X);
-				++X;
-			}
-			Console.Read();
+			//while (X <= 10)
+			//{
+			//	Console.WriteLine("Odliczanie..." + X);
+			//	++X;
+			//}
+			//Console.Read();
 
 
 			////////////////////////////////////////////////////////////////////

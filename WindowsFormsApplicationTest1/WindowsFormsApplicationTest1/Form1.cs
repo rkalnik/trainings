@@ -38,5 +38,10 @@ namespace WindowsFormsApplicationTest1
 		{
 			this.Text = String.Format("Aktualna pozycja: {0} - {1}", this.button1.Location.X, this.button1.Location.Y);
 		}
+
+		private void label1_Click(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
