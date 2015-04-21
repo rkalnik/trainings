@@ -1,0 +1,81 @@
+<div class="container">
+    <div class="jumbotron starter-template">
+
+        <!--<div ng-controller="ModalDemoCtrl">-->
+            <script type="text/ng-template" id="myModalContent.html">
+                <div class="modal-header">
+                    <h3 class="modal-title">Billing summary</h3>
+                </div>
+                <div class="modal-body">
+                    <table class="table">
+                        <tr><td>Delivery method</td><td>{{deliveryMethod}}<span ng-if="deliveryChoosen"> <i>with</i> {{deliveryChoosen}}</span></td></tr>
+                        <tr><td>Billing method</td><td>{{billingMethod}}<span ng-if="billingChoosen"> <i>with</i> {{billingChoosen}}</span></td></tr>
+                        <tr><td>Total price</td><td>${{totalPrice.toFixed(2)}}</td></tr>
+                    </table>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary" ng-click="ok()">OK</button>
+                    <button class="btn btn-warning" ng-click="cancel()">Cancel</button>
+                </div>
+            </script>
+        <!--</div>-->
+
+        <table class="table" id="shoppingList">
+            <thead>
+            <tr>
+                <th>Description</th><th>Price</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr ng-repeat="sellItem in sellItems"><td>{{sellItem.description}}</td><td>${{sellItem.price.toFixed(2)}}</td></tr>
+            <tr><td class="right"><span class="label label-default">Delivery</span></td><td>${{deliveryPrice.toFixed(2)}}</td></tr>
+            <tr><td class="right"><span class="label label-default">Total</span></td><td>${{totalPrice.toFixed(2)}}</td></tr>
+            </tbody>
+        </table>
+
+        <form ng-submit="submit()" name="QEForm" role="form">
+            <!--<select class="form-control selfish" ng-model="selectedTestAccount" ng-change="selectChange(null)" ng-options="testAccount.name for testAccount in testAccounts">
+                <option value="">Select account</option>
+            </select>-->
+
+            <!-- DELIVERY -->
+            <div class="input-group" id="delivery">
+                <div class="input-group-btn">
+                    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Delivery <span class="caret"></span></button>
+                    <ul class="dropdown-menu" role="menu">
+                        <li ng-click="selectChange(deliveryMethod)" ng-repeat="deliveryMethod in deliveryMethods"><a href="">{{deliveryMethod.name}}</a></li>
+                    </ul>
+                </div>
+                <input type="text" class="form-control dropDownValue" value="{{deliveryMethod}}" disabled>
+            </div>
+            <div class="left indent" id="deliveryOptions">
+                <div class="callout row" ng-if="deliveryShow[0] || deliveryShow[1] || deliveryShow[2]" ng-include="deliveryTemplate"></div>
+            </div>
+            <!-- BILLING -->
+            <div class="input-group" ng-if="deliveryShow[0] || deliveryShow[1] || deliveryShow[2]" id="billing">
+                <div class="input-group-btn">
+                    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Billing <span class="caret"></span></button>
+                    <ul class="dropdown-menu" role="menu">
+                        <li ng-click="selectChange(billingMethod)" ng-repeat="billingMethod in billingMethods"><a href="">{{billingMethod.name}}</a></li>
+                    </ul>
+                </div>
+                <input type="text" class="form-control dropDownValue" value="{{billingMethod}}" disabled>
+            </div>
+            <div class="left indent" id="billingOptions">
+                <!-- CASH + PERSONAL COLLECTION -->
+                <div id="cashPersonal_collection" class="callout row" ng-if="billingShow[0] && deliveryShow[0]" ng-include="billingTemplate"></div>
+                <!-- CASH + COURIER -->
+                <div id="cashCourier" class="callout row" ng-if="billingShow[0] && deliveryShow[1]" ng-include="billingTemplate"></div>
+                <!-- CASH + POST -->
+                <div id="cashPost" class="callout row" ng-if="billingShow[0] && deliveryShow[2]" ng-include="billingTemplate"></div>
+                <!-- CREDIT CARD -->
+                <div id="creditCard" class="callout row" ng-if="billingShow[1]" ng-include="billingTemplate"></div>
+                <!-- BANK TRANSFER -->
+                <div id="bankTransfer" class="callout row" ng-if="billingShow[2]" ng-include="billingTemplate"></div>
+            </div>
+
+            <input type="submit" id="submit" class="btn btn-primary" value="Submit" />
+
+        </form>
+    </div>
+</div><!-- /.container -->

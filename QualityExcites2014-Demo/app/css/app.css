@@ -1,0 +1,81 @@
+/* app css stylesheet */
+
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+div.left {
+    text-align: left;
+}
+
+div.indent {
+    margin-left: 30px;
+}
+
+div.callout {
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #c0c0c0;
+    border-left-width: 5px;
+    border-radius: 3px;
+}
+
+div.courier {
+    float: left !important;
+    padding: 20px;
+}
+
+p {
+    font-size: 14px !important;
+}
+
+input.selfish {
+    margin-bottom: 30px;
+    background-color: white !important;
+}
+
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+img {
+    display: block;
+}
+
+img.home {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.calc {
+    width: 280px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button.selfish {
+    margin: 5px;
+    width: 60px;
+    height: 100px;
+}
+
+button.dropdown-toggle {
+    width: 100px;
+    text-align: left;
+}
+
+tr {
+    background-color: white;
+    text-align: left;
+}
+
+td.right {
+    text-align: right;
+}
+
+a {
+    text-align: left;
+}

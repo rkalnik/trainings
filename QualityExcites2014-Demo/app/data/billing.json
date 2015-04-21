@@ -1,0 +1,29 @@
+{
+    "Cash": {
+        "CashPersonal_collection": {
+            "message": ["No influence on delivery price"],
+            "chooseIco": [],
+            "deliveryPrice": 0
+        },
+        "CashCourier": {
+            "message": ["The delivery price will be extended of"],
+            "chooseIco": [],
+            "deliveryPrice": 42
+        },
+        "CashPost": {
+            "message": ["The delivery price will be extended of"],
+            "chooseIco": [],
+            "deliveryPrice": 43
+        }
+    },
+    "Credit_card": {
+        "message": ["The delivery price will be extended of"],
+        "chooseIco": ["MasterCard", "Visa", "AmericanExpress"],
+        "deliveryPrice": 50
+    },
+    "Bank_transfer": {
+        "message": ["The delivery price will be extended of"],
+        "chooseIco": ["StandardTransfer"],
+        "deliveryPrice": 60
+    }
+}
