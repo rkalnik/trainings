@@ -1,0 +1,9 @@
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\ZamianaSloni\ZamianaSloni\bin\Debug\SwappingElephants.exe.config
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\ZamianaSloni\ZamianaSloni\bin\Debug\SwappingElephants.exe
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\ZamianaSloni\ZamianaSloni\bin\Debug\SwappingElephants.pdb
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\ZamianaSloni\ZamianaSloni\obj\Debug\ZamianaSloni.csprojResolveAssemblyReference.cache
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\ZamianaSloni\ZamianaSloni\obj\Debug\ZamianaSloni.Form1.resources
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\ZamianaSloni\ZamianaSloni\obj\Debug\ZamianaSloni.Properties.Resources.resources
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\ZamianaSloni\ZamianaSloni\obj\Debug\ZamianaSloni.csproj.GenerateResource.Cache
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\ZamianaSloni\ZamianaSloni\obj\Debug\SwappingElephants.exe
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\ZamianaSloni\ZamianaSloni\obj\Debug\SwappingElephants.pdb

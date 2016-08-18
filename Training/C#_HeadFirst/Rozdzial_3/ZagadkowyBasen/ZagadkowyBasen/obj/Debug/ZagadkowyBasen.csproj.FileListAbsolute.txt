@@ -1,0 +1,9 @@
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZagadkowyBasen\ZagadkowyBasen\bin\Debug\PoolPuzzle.exe.config
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZagadkowyBasen\ZagadkowyBasen\bin\Debug\PoolPuzzle.exe
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZagadkowyBasen\ZagadkowyBasen\bin\Debug\PoolPuzzle.pdb
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZagadkowyBasen\ZagadkowyBasen\obj\Debug\ZagadkowyBasen.csprojResolveAssemblyReference.cache
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZagadkowyBasen\ZagadkowyBasen\obj\Debug\ZagadkowyBasen.Form1.resources
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZagadkowyBasen\ZagadkowyBasen\obj\Debug\ZagadkowyBasen.Properties.Resources.resources
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZagadkowyBasen\ZagadkowyBasen\obj\Debug\ZagadkowyBasen.csproj.GenerateResource.Cache
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZagadkowyBasen\ZagadkowyBasen\obj\Debug\PoolPuzzle.exe
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZagadkowyBasen\ZagadkowyBasen\obj\Debug\PoolPuzzle.pdb

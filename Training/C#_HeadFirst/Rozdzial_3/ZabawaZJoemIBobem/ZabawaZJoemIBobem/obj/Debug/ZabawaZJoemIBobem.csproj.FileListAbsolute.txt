@@ -1,0 +1,10 @@
+C:\Users\Janek\Documents\Robocze\HELION\ksiazki\HF C#\kody\Rozdzial_3\ZabawaZJoemIBobem\ZabawaZJoemIBobem\bin\Debug\FunWithJoeAndBob.exe.config
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZabawaZJoemIBobem\ZabawaZJoemIBobem\bin\Debug\FunWithJoeAndBob.exe.config
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZabawaZJoemIBobem\ZabawaZJoemIBobem\bin\Debug\FunWithJoeAndBob.exe
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZabawaZJoemIBobem\ZabawaZJoemIBobem\bin\Debug\FunWithJoeAndBob.pdb
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZabawaZJoemIBobem\ZabawaZJoemIBobem\obj\Debug\ZabawaZJoemIBobem.csprojResolveAssemblyReference.cache
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZabawaZJoemIBobem\ZabawaZJoemIBobem\obj\Debug\ZabawaZJoemIBobem.Form1.resources
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZabawaZJoemIBobem\ZabawaZJoemIBobem\obj\Debug\ZabawaZJoemIBobem.Properties.Resources.resources
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZabawaZJoemIBobem\ZabawaZJoemIBobem\obj\Debug\ZabawaZJoemIBobem.csproj.GenerateResource.Cache
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZabawaZJoemIBobem\ZabawaZJoemIBobem\obj\Debug\FunWithJoeAndBob.exe
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\ZabawaZJoemIBobem\ZabawaZJoemIBobem\obj\Debug\FunWithJoeAndBob.pdb

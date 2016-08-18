@@ -1,0 +1,9 @@
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\UtworzmyKilkaInstancji\UtworzmyKilkaInstancji\bin\Debug\LetsCreateSomeInstances.exe.config
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\UtworzmyKilkaInstancji\UtworzmyKilkaInstancji\bin\Debug\LetsCreateSomeInstances.exe
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\UtworzmyKilkaInstancji\UtworzmyKilkaInstancji\bin\Debug\LetsCreateSomeInstances.pdb
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\UtworzmyKilkaInstancji\UtworzmyKilkaInstancji\obj\Debug\UtworzmyKilkaInstancji.csprojResolveAssemblyReference.cache
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\UtworzmyKilkaInstancji\UtworzmyKilkaInstancji\obj\Debug\UtworzmyKilkaInstancji.Form1.resources
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\UtworzmyKilkaInstancji\UtworzmyKilkaInstancji\obj\Debug\UtworzmyKilkaInstancji.Properties.Resources.resources
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\UtworzmyKilkaInstancji\UtworzmyKilkaInstancji\obj\Debug\UtworzmyKilkaInstancji.csproj.GenerateResource.Cache
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\UtworzmyKilkaInstancji\UtworzmyKilkaInstancji\obj\Debug\LetsCreateSomeInstances.exe
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\UtworzmyKilkaInstancji\UtworzmyKilkaInstancji\obj\Debug\LetsCreateSomeInstances.pdb

@@ -1,0 +1,10 @@
+e:\-==Trainings==-\C#\cshru3\Rozdzial_4\KalkulatorOdleglosci\KalkulatorOdleglosci\bin\Debug\MileageCalculator.exe.config
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\KalkulatorOdleglosci\KalkulatorOdleglosci\bin\Debug\MileageCalculator.exe.config
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\KalkulatorOdleglosci\KalkulatorOdleglosci\bin\Debug\MileageCalculator.exe
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\KalkulatorOdleglosci\KalkulatorOdleglosci\bin\Debug\MileageCalculator.pdb
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\KalkulatorOdleglosci\KalkulatorOdleglosci\obj\Debug\KalkulatorOdleglosci.csprojResolveAssemblyReference.cache
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\KalkulatorOdleglosci\KalkulatorOdleglosci\obj\Debug\KalkulatorOdleglosci.Form1.resources
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\KalkulatorOdleglosci\KalkulatorOdleglosci\obj\Debug\KalkulatorOdleglosci.Properties.Resources.resources
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\KalkulatorOdleglosci\KalkulatorOdleglosci\obj\Debug\KalkulatorOdleglosci.csproj.GenerateResource.Cache
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\KalkulatorOdleglosci\KalkulatorOdleglosci\obj\Debug\MileageCalculator.exe
+c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\KalkulatorOdleglosci\KalkulatorOdleglosci\obj\Debug\MileageCalculator.pdb

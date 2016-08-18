@@ -1,0 +1,9 @@
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\TestGadania\TestGadania\bin\Debug\TalkerTester.exe.config
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\TestGadania\TestGadania\bin\Debug\TalkerTester.exe
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\TestGadania\TestGadania\bin\Debug\TalkerTester.pdb
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\TestGadania\TestGadania\obj\Debug\TestGadania.csprojResolveAssemblyReference.cache
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\TestGadania\TestGadania\obj\Debug\TestGadania.Form1.resources
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\TestGadania\TestGadania\obj\Debug\TestGadania.Properties.Resources.resources
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\TestGadania\TestGadania\obj\Debug\TestGadania.csproj.GenerateResource.Cache
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\TestGadania\TestGadania\obj\Debug\TalkerTester.exe
+e:\-==Trainings==-\C#\cshru3\Rozdzial_3\TestGadania\TestGadania\obj\Debug\TalkerTester.pdb
