@@ -1,0 +1,12 @@
+C:\GIT_Solutions_RK\Training\TEST\Rozdzial_4\NiechlujnyJanek\NiechlujnyJanek\bin\Debug\NiechlujnyJanek.exe.config
+C:\GIT_Solutions_RK\Training\TEST\Rozdzial_4\NiechlujnyJanek\NiechlujnyJanek\bin\Debug\NiechlujnyJanek.exe
+C:\GIT_Solutions_RK\Training\TEST\Rozdzial_4\NiechlujnyJanek\NiechlujnyJanek\bin\Debug\NiechlujnyJanek.pdb
+C:\GIT_Solutions_RK\Training\TEST\Rozdzial_4\NiechlujnyJanek\NiechlujnyJanek\obj\Debug\NiechlujnyJanek.csprojResolveAssemblyReference.cache
+C:\GIT_Solutions_RK\Training\TEST\Rozdzial_4\NiechlujnyJanek\NiechlujnyJanek\obj\Debug\NiechlujnyJanek.Properties.Resources.resources
+C:\GIT_Solutions_RK\Training\TEST\Rozdzial_4\NiechlujnyJanek\NiechlujnyJanek\obj\Debug\NiechlujnyJanek.csproj.GenerateResource.Cache
+C:\GIT_Solutions_RK\Training\TEST\Rozdzial_4\NiechlujnyJanek\NiechlujnyJanek\obj\Debug\NiechlujnyJanek.exe
+C:\GIT_Solutions_RK\Training\TEST\Rozdzial_4\NiechlujnyJanek\NiechlujnyJanek\obj\Debug\NiechlujnyJanek.pdb
+C:\GIT_Solutions_RK\Training\TEST\Rozdzial_4\NiechlujnyJanek\NiechlujnyJanek\obj\Debug\NiechlujnyJanek.Form1.resources
+c:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_4\NiechlujnyJanek\NiechlujnyJanek\bin\Debug\NiechlujnyJanek.exe.config
+c:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_4\NiechlujnyJanek\NiechlujnyJanek\obj\Debug\NiechlujnyJanek.exe
+c:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_4\NiechlujnyJanek\NiechlujnyJanek\obj\Debug\NiechlujnyJanek.pdb

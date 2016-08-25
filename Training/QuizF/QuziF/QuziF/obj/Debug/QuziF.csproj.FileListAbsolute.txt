@@ -1,0 +1,12 @@
+C:\GIT_Solutions_RK\Training\QuizF\QuziF\QuziF\bin\Debug\QuziF.exe.config
+C:\GIT_Solutions_RK\Training\QuizF\QuziF\QuziF\bin\Debug\QuziF.exe
+C:\GIT_Solutions_RK\Training\QuizF\QuziF\QuziF\bin\Debug\QuziF.pdb
+C:\GIT_Solutions_RK\Training\QuizF\QuziF\QuziF\bin\Debug\DataLayer.dll
+C:\GIT_Solutions_RK\Training\QuizF\QuziF\QuziF\bin\Debug\EntityFramework.dll
+C:\GIT_Solutions_RK\Training\QuizF\QuziF\QuziF\bin\Debug\EntityFramework.SqlServer.dll
+C:\GIT_Solutions_RK\Training\QuizF\QuziF\QuziF\bin\Debug\DataLayer.pdb
+C:\GIT_Solutions_RK\Training\QuizF\QuziF\QuziF\bin\Debug\EntityFramework.xml
+C:\GIT_Solutions_RK\Training\QuizF\QuziF\QuziF\bin\Debug\EntityFramework.SqlServer.xml
+C:\GIT_Solutions_RK\Training\QuizF\QuziF\QuziF\obj\Debug\QuziF.csprojResolveAssemblyReference.cache
+C:\GIT_Solutions_RK\Training\QuizF\QuziF\QuziF\obj\Debug\QuziF.exe
+C:\GIT_Solutions_RK\Training\QuizF\QuziF\QuziF\obj\Debug\QuziF.pdb

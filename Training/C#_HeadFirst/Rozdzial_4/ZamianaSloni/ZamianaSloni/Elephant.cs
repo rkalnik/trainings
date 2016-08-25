@@ -11,10 +11,14 @@ namespace ZamianaSloni
     {
         public int EarSize;
         public string Name;
+		
+
         public void WhoAmI()
         {
             MessageBox.Show("Moje uszy mają " + EarSize + " centymetrów szerokości.",
                Name + " mówi…");
         }
+
+		
     }
 }

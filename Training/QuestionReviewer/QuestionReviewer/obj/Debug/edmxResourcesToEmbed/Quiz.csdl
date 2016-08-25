@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Quiz" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="QuizContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="QuestionCards" EntityType="Quiz.QuestionCard" />
+    <EntitySet Name="Categories" EntityType="Quiz.Category" />
+    <AssociationSet Name="CategoryQuestionCard" Association="Quiz.CategoryQuestionCard">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="QuestionCard" EntitySet="QuestionCards" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="QuestionCard">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Question" Type="String" Nullable="false" Unicode="true" />
+    <Property Name="Answer1" Type="String" Nullable="false" />
+    <Property Name="Answer2" Type="String" Nullable="false" />
+    <Property Name="Answer3" Type="String" Nullable="false" />
+    <Property Name="CorrectAnswer" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Category" Relationship="Quiz.CategoryQuestionCard" FromRole="QuestionCard" ToRole="Category" />
+  </EntityType>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" Unicode="true" />
+    <NavigationProperty Name="QuestionCards" Relationship="Quiz.CategoryQuestionCard" FromRole="Category" ToRole="QuestionCard" />
+  </EntityType>
+  <Association Name="CategoryQuestionCard">
+    <End Type="Quiz.Category" Role="Category" Multiplicity="1" />
+    <End Type="Quiz.QuestionCard" Role="QuestionCard" Multiplicity="*" />
+  </Association>
+</Schema>

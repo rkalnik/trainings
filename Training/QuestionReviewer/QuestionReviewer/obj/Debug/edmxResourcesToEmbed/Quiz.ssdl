@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Quiz.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="QuizStoreContainer">
+    <EntitySet Name="QuestionCards" EntityType="Quiz.Store.QuestionCards" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Categories" EntityType="Quiz.Store.Categories" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="CategoryQuestionCard" Association="Quiz.Store.CategoryQuestionCard">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="QuestionCard" EntitySet="QuestionCards" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="QuestionCards">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Question" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Answer1" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Answer2" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Answer3" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="CorrectAnswer" Type="int" Nullable="false" />
+    <Property Name="Category_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Categories">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="CategoryQuestionCard">
+    <End Role="Category" Type="Quiz.Store.Categories" Multiplicity="1" />
+    <End Role="QuestionCard" Type="Quiz.Store.QuestionCards" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="QuestionCard">
+        <PropertyRef Name="Category_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

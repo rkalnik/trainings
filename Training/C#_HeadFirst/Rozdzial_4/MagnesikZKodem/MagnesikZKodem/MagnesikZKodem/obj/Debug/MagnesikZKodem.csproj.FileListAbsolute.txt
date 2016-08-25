@@ -1,0 +1,9 @@
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_4\MagnesikZKodem\MagnesikZKodem\MagnesikZKodem\bin\Debug\MagnesikZKodem.exe.config
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_4\MagnesikZKodem\MagnesikZKodem\MagnesikZKodem\bin\Debug\MagnesikZKodem.exe
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_4\MagnesikZKodem\MagnesikZKodem\MagnesikZKodem\bin\Debug\MagnesikZKodem.pdb
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_4\MagnesikZKodem\MagnesikZKodem\MagnesikZKodem\obj\Debug\MagnesikZKodem.csprojResolveAssemblyReference.cache
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_4\MagnesikZKodem\MagnesikZKodem\MagnesikZKodem\obj\Debug\MagnesikZKodem.Form1.resources
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_4\MagnesikZKodem\MagnesikZKodem\MagnesikZKodem\obj\Debug\MagnesikZKodem.Properties.Resources.resources
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_4\MagnesikZKodem\MagnesikZKodem\MagnesikZKodem\obj\Debug\MagnesikZKodem.csproj.GenerateResource.Cache
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_4\MagnesikZKodem\MagnesikZKodem\MagnesikZKodem\obj\Debug\MagnesikZKodem.exe
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_4\MagnesikZKodem\MagnesikZKodem\MagnesikZKodem\obj\Debug\MagnesikZKodem.pdb
