@@ -19,8 +19,27 @@ namespace PlanistaPrzyjec
 			InitializeComponent();
 
 			dinnerParty = new DinnerParty() { numberOfPeople = 5 };
-			dinnerParty.CalculateCostOfDecorations(false);
-			dinnerParty.SetHealthyOption(true);
+			//dinnerParty.numberOfPeople = 5;
+			dinnerParty.CalculateCostOfDecorations(fancyBox.Checked);
+			dinnerParty.SetHealthyOption(healthyBox.Checked);
+			DisplayDinnerPartyCost();
+		}
+
+		private void fancyBox_CheckedChanged(object sender, EventArgs e)
+		{
+			dinnerParty.CalculateCostOfDecorations(fancyBox.Checked);
+			DisplayDinnerPartyCost();
+		}
+
+		private void healthyBox_CheckedChanged(object sender, EventArgs e)
+		{
+			dinnerParty.SetHealthyOption(healthyBox.Checked);
+			DisplayDinnerPartyCost();
+		}
+
+		private void numericUpDown1_ValueChanged(object sender, EventArgs e)
+		{
+			dinnerParty.numberOfPeople = (int)numericUpDown1.Value;
 			DisplayDinnerPartyCost();
 		}
 
@@ -36,22 +55,5 @@ namespace PlanistaPrzyjec
 			//n -wyświetli wartość, wstawiajac separatory dla poszczegolnych rzędów wielkosci
 		}
 
-		private void numericUpDown1_ValueChanged(object sender, EventArgs e)
-		{
-			dinnerParty.numberOfPeople = (int)numericUpDown1.Value;
-			DisplayDinnerPartyCost();
-		}
-
-		private void fancyBox_CheckedChanged(object sender, EventArgs e)
-		{
-			dinnerParty.CalculateCostOfDecorations(fancyBox.Checked);
-			DisplayDinnerPartyCost();
-		}
-
-		private void healthyBox_CheckedChanged(object sender, EventArgs e)
-		{
-			dinnerParty.SetHealthyOption(healthyBox.Checked);
-			DisplayDinnerPartyCost();
-		}
 	}
 }

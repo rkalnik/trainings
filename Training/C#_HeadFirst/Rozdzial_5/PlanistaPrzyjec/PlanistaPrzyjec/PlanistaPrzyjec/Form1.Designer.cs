@@ -63,6 +63,8 @@
 			// fancyBox
 			// 
 			this.fancyBox.AutoSize = true;
+			this.fancyBox.Checked = true;
+			this.fancyBox.CheckState = System.Windows.Forms.CheckState.Checked;
 			this.fancyBox.Location = new System.Drawing.Point(12, 80);
 			this.fancyBox.Name = "fancyBox";
 			this.fancyBox.Size = new System.Drawing.Size(126, 17);
@@ -124,7 +126,7 @@
 			this.Controls.Add(this.fancyBox);
 			this.Controls.Add(this.numericUpDown1);
 			this.Name = "Form1";
-			this.Text = "Form1";
+			this.Text = "Planista Przyjęć";
 			((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
 			this.ResumeLayout(false);
 			this.PerformLayout();

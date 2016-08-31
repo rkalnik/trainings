@@ -18,7 +18,7 @@ namespace PlanistaPrzyjec
 		{
 			if (healthyOption)
 			{
-				//przypisanie do zmiennej wartosci z M spowoduje wyswitlenie waluty w postaci zł w zaleznosci od ustwionego jezyka M=Money
+				//przypisanie do zmiennej wartosci z M spowoduje wyswitlenie waluty w postaci np.: zł w zaleznosci od ustwionego jezyka M=Money
 				costOfBeveragesPerPerson = 5.00M;
 			}
 			else
