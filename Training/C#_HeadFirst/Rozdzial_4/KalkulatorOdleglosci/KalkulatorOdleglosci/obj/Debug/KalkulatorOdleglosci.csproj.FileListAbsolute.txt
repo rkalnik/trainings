@@ -8,3 +8,6 @@ c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\KalkulatorOdleglosci\Kalkulato
 c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\KalkulatorOdleglosci\KalkulatorOdleglosci\obj\Debug\KalkulatorOdleglosci.csproj.GenerateResource.Cache
 c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\KalkulatorOdleglosci\KalkulatorOdleglosci\obj\Debug\MileageCalculator.exe
 c:\GIT_Solutions_RK\Training\RuszGlowa\Rozdzial_4\KalkulatorOdleglosci\KalkulatorOdleglosci\obj\Debug\MileageCalculator.pdb
+c:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_4\KalkulatorOdleglosci\KalkulatorOdleglosci\bin\Debug\MileageCalculator.exe.config
+c:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_4\KalkulatorOdleglosci\KalkulatorOdleglosci\obj\Debug\MileageCalculator.exe
+c:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_4\KalkulatorOdleglosci\KalkulatorOdleglosci\obj\Debug\MileageCalculator.pdb

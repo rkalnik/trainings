@@ -8,14 +8,16 @@ using DataLayer.Models;
 
 namespace DataLayer
 {
-	public class QuizDBInitializer:DropCreateDatabaseIfModelChanges<QuizDbContext>
+	public class QuizDBInitializer:DropCreateDatabaseAlways<QuizDbContext>
 	{
-
+				
 		protected override void Seed(QuizDbContext context)
 		{
+			var question = new Question() { QuestionText = "Pierwsze pytanie" };
+
 			for (int i = 0; i < 10; i++)
 			{
-				context.Set<Question>().Add(new Question() { QuestionText = $"Question {i}", Answer = $"Answer {i}" });
+				context.Answers.Add(new Answer() { AnswerText = $"Odpowiedź {i}", IsCorrect = i == 0, Question = question });
 			}
 
 			context.SaveChanges();

@@ -1,0 +1,9 @@
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\PlanistaPrzyjec\PlanistaPrzyjec\PlanistaPrzyjec\bin\Debug\PlanistaPrzyjec.exe.config
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\PlanistaPrzyjec\PlanistaPrzyjec\PlanistaPrzyjec\bin\Debug\PlanistaPrzyjec.exe
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\PlanistaPrzyjec\PlanistaPrzyjec\PlanistaPrzyjec\bin\Debug\PlanistaPrzyjec.pdb
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\PlanistaPrzyjec\PlanistaPrzyjec\PlanistaPrzyjec\obj\Debug\PlanistaPrzyjec.csprojResolveAssemblyReference.cache
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\PlanistaPrzyjec\PlanistaPrzyjec\PlanistaPrzyjec\obj\Debug\PlanistaPrzyjec.Form1.resources
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\PlanistaPrzyjec\PlanistaPrzyjec\PlanistaPrzyjec\obj\Debug\PlanistaPrzyjec.Properties.Resources.resources
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\PlanistaPrzyjec\PlanistaPrzyjec\PlanistaPrzyjec\obj\Debug\PlanistaPrzyjec.csproj.GenerateResource.Cache
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\PlanistaPrzyjec\PlanistaPrzyjec\PlanistaPrzyjec\obj\Debug\PlanistaPrzyjec.exe
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\PlanistaPrzyjec\PlanistaPrzyjec\PlanistaPrzyjec\obj\Debug\PlanistaPrzyjec.pdb

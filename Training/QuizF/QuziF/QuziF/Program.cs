@@ -14,7 +14,19 @@ namespace QuziF
 		{
 			using (var dbContext = new QuizDbContext())
 			{
-				dbContext.Questions.Add(new Question() { QuestionText = "Przykładowe pytanie", Answer = "Lorem ipsum" });
+				//try
+				//{
+				//	dbContext.Questions.Add(new Question() { QuestionText = "Przy" });
+				//	dbContext.SaveChanges();
+				//}
+				//catch(Exception e)
+				//{
+
+				//}
+
+				//dbContext.Questions.Add(new Question() { QuestionText = "Przykładowe pytanie", Answer = "Lorem ipsum" });
+
+				dbContext.Questions.Add(new Question() { QuestionText = "Przykładowe długie pytanie" });
 				dbContext.SaveChanges();
 
 
