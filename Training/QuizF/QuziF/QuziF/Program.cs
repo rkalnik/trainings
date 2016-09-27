@@ -26,9 +26,9 @@ namespace QuziF
 
 				//dbContext.Questions.Add(new Question() { QuestionText = "Przykładowe pytanie", Answer = "Lorem ipsum" });
 
-				dbContext.Questions.Add(new Question() { QuestionText = "Przykładowe długie pytanie" });
-				dbContext.SaveChanges();
-
+				//dbContext.Questions.Add(new Question() { QuestionText = "Przykładowe długie pytanie" });
+				//dbContext.SaveChanges();
+				var question = dbContext.Questions.Include("Answers").First();
 
 			}
 

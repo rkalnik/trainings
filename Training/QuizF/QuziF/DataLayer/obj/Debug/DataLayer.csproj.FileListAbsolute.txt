@@ -8,3 +8,6 @@ C:\GIT_Solutions_RK\Training\QuizF\QuziF\DataLayer\bin\Debug\EntityFramework.Sql
 C:\GIT_Solutions_RK\Training\QuizF\QuziF\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
 C:\GIT_Solutions_RK\Training\QuizF\QuziF\DataLayer\obj\Debug\DataLayer.dll
 C:\GIT_Solutions_RK\Training\QuizF\QuziF\DataLayer\obj\Debug\DataLayer.pdb
+C:\GIT_Solutions_RK\Training\QuizF\QuziF\DataLayer\obj\Debug\DataLayer.Migrations.InitialCreate.resources
+C:\GIT_Solutions_RK\Training\QuizF\QuziF\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.Cache
+C:\GIT_Solutions_RK\Training\QuizF\QuziF\DataLayer\obj\Debug\DataLayer.Migrations.AnswerValeAdd.resources

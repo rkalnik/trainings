@@ -1,0 +1,12 @@
+C:\GIT_Solutions_RK\Training\Kolos\Kolos\Kolos\bin\Debug\Kolos.exe.config
+c:\GIT_Solutions_RK\Training\Kolos\Kolos\Kolos\bin\Debug\Kolos.exe
+c:\GIT_Solutions_RK\Training\Kolos\Kolos\Kolos\bin\Debug\Kolos.pdb
+c:\GIT_Solutions_RK\Training\Kolos\Kolos\Kolos\obj\Debug\Kolos.csprojResolveAssemblyReference.cache
+c:\GIT_Solutions_RK\Training\Kolos\Kolos\Kolos\obj\Debug\Kolos.exe
+c:\GIT_Solutions_RK\Training\Kolos\Kolos\Kolos\obj\Debug\Kolos.pdb
+C:\GIT_Solutions_RK\Training\Kolos\Kolos\Kolos\bin\Debug\DataLayer.dll
+C:\GIT_Solutions_RK\Training\Kolos\Kolos\Kolos\bin\Debug\EntityFramework.dll
+C:\GIT_Solutions_RK\Training\Kolos\Kolos\Kolos\bin\Debug\EntityFramework.SqlServer.dll
+C:\GIT_Solutions_RK\Training\Kolos\Kolos\Kolos\bin\Debug\DataLayer.pdb
+C:\GIT_Solutions_RK\Training\Kolos\Kolos\Kolos\bin\Debug\EntityFramework.xml
+C:\GIT_Solutions_RK\Training\Kolos\Kolos\Kolos\bin\Debug\EntityFramework.SqlServer.xml

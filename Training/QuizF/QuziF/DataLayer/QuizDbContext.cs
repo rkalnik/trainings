@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Data.Entity;
 using DataLayer.Models;
 using DataLayer.Conventions;
+using DataLayer.Configurations;
 
 namespace DataLayer
 {
@@ -23,6 +24,7 @@ namespace DataLayer
 		public QuizDbContext() : base()
 		{
 			Database.SetInitializer(new QuizDBInitializer());
+			this.Configuration.LazyLoadingEnabled = false;
 		}
 
 		/// <summary>
@@ -32,6 +34,7 @@ namespace DataLayer
 		protected override void OnModelCreating(DbModelBuilder modelBuilder)
 		{
 			modelBuilder.Conventions.Add<CustomTableNameConventions>();
+			modelBuilder.Configurations.Add(new AnswerConfiguration());
 			base.OnModelCreating(modelBuilder);
 		}
 

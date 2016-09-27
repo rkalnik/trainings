@@ -6,3 +6,4 @@ C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\PlanistaPrzyjec\PlanistaPrz
 C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\PlanistaPrzyjec\PlanistaPrzyjec\PlanistaPrzyjec\obj\Debug\PlanistaPrzyjec.csproj.GenerateResource.Cache
 C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\PlanistaPrzyjec\PlanistaPrzyjec\PlanistaPrzyjec\obj\Debug\PlanistaPrzyjec.exe
 C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\PlanistaPrzyjec\PlanistaPrzyjec\PlanistaPrzyjec\obj\Debug\PlanistaPrzyjec.pdb
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\PlanistaPrzyjec\PlanistaPrzyjec\PlanistaPrzyjec\obj\Debug\PlanistaPrzyjec.csprojResolveAssemblyReference.cache

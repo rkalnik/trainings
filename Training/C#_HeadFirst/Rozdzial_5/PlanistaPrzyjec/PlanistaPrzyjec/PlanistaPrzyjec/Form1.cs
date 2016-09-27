@@ -18,11 +18,13 @@ namespace PlanistaPrzyjec
 		{
 			InitializeComponent();
 
-			dinnerParty = new DinnerParty() { numberOfPeople = 5 };
+			dinnerParty = new DinnerParty()
+			{ numberOfPeople = 5 };
 			//dinnerParty.numberOfPeople = 5;
 			dinnerParty.CalculateCostOfDecorations(fancyBox.Checked);
 			dinnerParty.SetHealthyOption(healthyBox.Checked);
 			DisplayDinnerPartyCost();
+
 		}
 
 		private void fancyBox_CheckedChanged(object sender, EventArgs e)

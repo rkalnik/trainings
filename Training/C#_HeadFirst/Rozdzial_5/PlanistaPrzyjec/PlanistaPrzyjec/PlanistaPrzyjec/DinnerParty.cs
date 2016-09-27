@@ -6,13 +6,28 @@ using System.Threading.Tasks;
 
 namespace PlanistaPrzyjec
 {
-	class DinnerParty
+	//static class Test
+	//{
+	//	static public void TestMethod1()
+	//	{
+
+	//	}
+	//}
+
+	public class DinnerParty
 	{
+	
 		public const int costOfFoodPerPerson = 25;
 		public int numberOfPeople;
 		public decimal costOfBeveragesPerPerson;
 		public decimal costOfDecorations = 0;
 
+		//static public void TestMethod1()
+		//{
+
+		//}
+
+		//DinnerParty dinner = new DinnerParty() { numberOfPeople = 8 };
 
 		public void SetHealthyOption(bool healthyOption)
 		{

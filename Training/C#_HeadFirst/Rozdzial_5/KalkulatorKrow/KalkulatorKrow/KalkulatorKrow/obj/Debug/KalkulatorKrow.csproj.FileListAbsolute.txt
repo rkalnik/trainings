@@ -1,0 +1,9 @@
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\KalkulatorKrow\KalkulatorKrow\KalkulatorKrow\bin\Debug\KalkulatorKrow.exe.config
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\KalkulatorKrow\KalkulatorKrow\KalkulatorKrow\bin\Debug\KalkulatorKrow.exe
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\KalkulatorKrow\KalkulatorKrow\KalkulatorKrow\bin\Debug\KalkulatorKrow.pdb
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\KalkulatorKrow\KalkulatorKrow\KalkulatorKrow\obj\Debug\KalkulatorKrow.csprojResolveAssemblyReference.cache
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\KalkulatorKrow\KalkulatorKrow\KalkulatorKrow\obj\Debug\KalkulatorKrow.Form1.resources
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\KalkulatorKrow\KalkulatorKrow\KalkulatorKrow\obj\Debug\KalkulatorKrow.Properties.Resources.resources
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\KalkulatorKrow\KalkulatorKrow\KalkulatorKrow\obj\Debug\KalkulatorKrow.csproj.GenerateResource.Cache
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\KalkulatorKrow\KalkulatorKrow\KalkulatorKrow\obj\Debug\KalkulatorKrow.exe
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\KalkulatorKrow\KalkulatorKrow\KalkulatorKrow\obj\Debug\KalkulatorKrow.pdb

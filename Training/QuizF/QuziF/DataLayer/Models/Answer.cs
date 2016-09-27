@@ -12,11 +12,12 @@ namespace DataLayer.Models
 		public int AnswerId { get; set; }
 		public string AnswerText { get; set; }
 		public bool IsCorrect { get; set; }
+		public int Value { get; set; }
 
 		//[Range(1,5)]
 		//public int DifficultyLevel { get; set; }
 
-		public int QuestionId { get; set; }
-		public Question Question { get; set; }
+		public int? QuestionId { get; set; }
+		public virtual Question Question { get; set; }
 	}
 }

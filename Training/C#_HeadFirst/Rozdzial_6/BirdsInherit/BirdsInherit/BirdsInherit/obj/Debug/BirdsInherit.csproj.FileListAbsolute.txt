@@ -1,0 +1,6 @@
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\BirdsInherit\BirdsInherit\BirdsInherit\bin\Debug\BirdsInherit.exe.config
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\BirdsInherit\BirdsInherit\BirdsInherit\bin\Debug\BirdsInherit.exe
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\BirdsInherit\BirdsInherit\BirdsInherit\bin\Debug\BirdsInherit.pdb
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\BirdsInherit\BirdsInherit\BirdsInherit\obj\Debug\BirdsInherit.csprojResolveAssemblyReference.cache
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\BirdsInherit\BirdsInherit\BirdsInherit\obj\Debug\BirdsInherit.exe
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\BirdsInherit\BirdsInherit\BirdsInherit\obj\Debug\BirdsInherit.pdb

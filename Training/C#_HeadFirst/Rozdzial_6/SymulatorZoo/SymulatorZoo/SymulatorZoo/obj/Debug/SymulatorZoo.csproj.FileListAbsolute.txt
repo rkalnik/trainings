@@ -1,0 +1,6 @@
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\SymulatorZoo\SymulatorZoo\SymulatorZoo\bin\Debug\SymulatorZoo.exe.config
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\SymulatorZoo\SymulatorZoo\SymulatorZoo\bin\Debug\SymulatorZoo.exe
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\SymulatorZoo\SymulatorZoo\SymulatorZoo\bin\Debug\SymulatorZoo.pdb
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\SymulatorZoo\SymulatorZoo\SymulatorZoo\obj\Debug\SymulatorZoo.csprojResolveAssemblyReference.cache
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\SymulatorZoo\SymulatorZoo\SymulatorZoo\obj\Debug\SymulatorZoo.exe
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_5\SymulatorZoo\SymulatorZoo\SymulatorZoo\obj\Debug\SymulatorZoo.pdb

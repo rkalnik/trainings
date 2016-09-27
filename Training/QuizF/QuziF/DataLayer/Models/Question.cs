@@ -1,12 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace DataLayer.Models
 {
+	[Table("Questionsblabla")]
+
 	public class Question
 	{
 		/// <summary>
@@ -19,7 +22,6 @@ namespace DataLayer.Models
 		[MinLength(10), MaxLength(200)]
 		public string QuestionText { get; set; }
 		
-
-		public List<Answer> Answers { get; set; }
+		public virtual List<Answer> Answers { get; set; }
 	}
 }
