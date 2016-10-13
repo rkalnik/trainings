@@ -8,12 +8,12 @@ using OpenQA.Selenium.Support.UI;
 
 namespace SeleniumFirst
 {
-	class SeleniumSetMethods
+	public static class SeleniumSetMethods
 	{
 		/// <summary>
 		/// Extended method for entering text in control
 		/// </summary>
-		public static void EnterText(IWebElement element, string value)
+		public static void EnterText(this IWebElement element, string value)
 		{
 
 			element.SendKeys(value);
@@ -29,9 +29,9 @@ namespace SeleniumFirst
 		////Click into a button, checkbox, option etc.
 		/// </summary>
 		/// <param name="element"></param>
-		public static void Click(IWebElement element)
+		public static void Clicks(this IWebElement element)
 		{
-			element.Click();
+			element.Submit();
 			
 			//if (elementType == PropertyType.Id)
 			//	driver.FindElement(By.Id(element)).Click();
@@ -43,7 +43,7 @@ namespace SeleniumFirst
 		/// <summary>
 		/// Selecting a drop down control
 		/// </summary>
-		public static void SelectDropDown(IWebElement element, string value)
+		public static void SelectDropDown(this IWebElement element, string value)
 		{
 			//if (elementType == PropertyType.Id)
 			//	new SelectElement(driver.FindElement(By.Id(element))).SelectByText(value);
