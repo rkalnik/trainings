@@ -1,0 +1,1 @@
+C:\GIT_Solutions_RK\Training\C#_HeadFirst\Rozdzial_6\System zarzadzania ulem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
