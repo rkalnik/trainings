@@ -21,7 +21,8 @@ namespace ReadingHtmlTables
 			Utilities.ReadTable(page.table);
 			Console.WriteLine("********************");
 			//Get the cell value from the table
-			Console.WriteLine(Utilities.ReadCell("First name", 2));
+			//Console.WriteLine(Utilities.ReadCell("First name", 2));
+			Console.WriteLine("The first name: {0} and surname: {1}, date brith {2}", Utilities.ReadCell("First name", 1), Utilities.ReadCell("Surname", 1), Utilities.ReadCell("Date of birth", 1));
 			Console.WriteLine("********************");
 			Console.ReadKey();
 		}

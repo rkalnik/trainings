@@ -10,6 +10,5 @@ namespace ReadingHtmlTables
 	public class Base
 	{
 		public static IWebDriver driver;
-
 	}
 }
