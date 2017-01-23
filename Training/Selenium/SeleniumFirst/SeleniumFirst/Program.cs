@@ -50,7 +50,7 @@ namespace SeleniumFirst
 			//Login to application
 
 			LoginPageObject pageLogin = new LoginPageObject();
-			EAPageObject pageEA =  pageLogin.Login("execute", "automation");
+			EAPageObject pageEA = pageLogin.Login("execute", "automation");
 			Thread.Sleep(3000);
 			pageEA.FillUserForm("KK", "Ziutek", "Automation");
 			Thread.Sleep(5000);
