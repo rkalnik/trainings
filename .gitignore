@@ -39,3 +39,8 @@ x86/
 bld/
 [Bb]in/
 [Oo]bj/
+
+#Ignore other folders
+/GIT_Solutions_RK/EAP
+/GIT_Solutions_RK/MiniEAP
+/GIT_Solutions_RK/protractor-net
