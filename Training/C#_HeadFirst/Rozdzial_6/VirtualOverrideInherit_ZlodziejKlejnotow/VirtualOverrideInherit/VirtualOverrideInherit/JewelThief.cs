@@ -10,7 +10,7 @@ namespace VirtualOverrideInherit
 	{
 		private Jewels stolenJewels = null;
 		//jesli uzyjemy slowa kluczowego new zamiast override to spowodujemy ze metoda ReturnContents z klasy pochodnej JewelThief zostanie ukryta
-		//natomiast jesli uzyjemy override to metoda ReturnContents zostanie przeslonieta (nadpisana) nowa implementacja z klasy pochodnej
+		//natomiast jesli uzyjemy override to metoda ReturnContents w klasie bazowej zostanie przeslonieta (nadpisana) nowa implementacja z klasy pochodnej JewelThief
 		override public void ReturnContents(Jewels safeContents, Owner owner)
 		{
 			stolenJewels = safeContents;

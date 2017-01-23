@@ -27,7 +27,7 @@ namespace KalkulatorKrow
 			}
 		}
 
-		//konstruktor w ktorym jego parametry przyoisane sa do wlasciwosci klasy Farmer, stworzenie konstruktora z logika w ciele powoduje
+		//konstruktor w ktorym jego parametry przypisane sa do wlasciwosci klasy Farmer, stworzenie konstruktora z logika w ciele powoduje
 		//wymuszenie jego zastosowania podczas tworzenia obiektu w klasie Form1
 		public Farmer(int numberOfCows, int feedMultiplier)
 		{
