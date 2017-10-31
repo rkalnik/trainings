@@ -1,0 +1,16 @@
+﻿p#pId{
+    color: red;
+}
+
+p.pClass{
+    color: green !important;
+    background-color: pink;
+}
+
+/*:not(p){
+    color: red;
+}*/
+
+/*p:hover{
+    color: red;
+}*/

@@ -1,0 +1,9 @@
+﻿.row > div:nth-child(2n) {
+    background-color : aquamarine;
+    border: solid 1px black;
+}
+
+.row > div:nth-child(2n+1) {
+    background-color : indianred;
+    border: solid 1px black;
+}
