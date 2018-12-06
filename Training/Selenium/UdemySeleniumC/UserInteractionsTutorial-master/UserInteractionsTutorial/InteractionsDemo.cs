@@ -100,7 +100,7 @@ namespace UserInteractionsTutorial
             _driver.Navigate().GoToUrl("http://the-internet.herokuapp.com/drag_and_drop");
             var source = _wait.Until(ExpectedConditions.ElementIsVisible(By.Id("column-a")));
 
-            var jsFile = File.ReadAllText(@"C:\Source\Github\UserInteractionsTutorial\drag_and_drop_helper.js");
+            var jsFile = File.ReadAllText(@"c:\GIT_Solutions_RK\Training\Selenium\UdemySeleniumC\UserInteractionsTutorial-master\drag_and_drop_helper.js");
             IJavaScriptExecutor js = _driver as IJavaScriptExecutor;
             //Execute java script - #{{id value}}
             js.ExecuteScript(jsFile + "$('#column-a').simulateDragDrop({ dropTarget: '#column-b'});");
