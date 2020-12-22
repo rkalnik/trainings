@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+  <head>
+    <!-- Deklaracja zestawu znakow, style, tytul, wsparcie dla IE<9 itd.-->
+    <!-- Maksymalna zalecana długość meta description to pomiędzy 150, a 160 znaków wraz ze spacjami-->
+    <meta charset="utf-8">
+    <meta name="description" content="Portfolio, Quality Assurance Engineer, Tester" >  
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="icon" href="icon/QaLogo.png" type="image/x-icon"/>
+    <title>Rafał Kalnik | Quality Assurance Engineer</title>
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <header>
+      <nav class="nav">
+           <a href="#first"><button>O mnie</button></a>
+           <a href="#second"><button>Umiejętności</button></a>
+           <a href="#firth"><button>Portfolio</button></a>
+           <a href="#fourth"><button>Kontakt</button></a>
+      </nav>
+      <h1>Rafał <strong class="underline">Kalnik</strong></h1></nav>
+    </header>
+    <main>
+      <div>
+            <img src="images/garfield.jpg" alt="test image" title="test title" >
+        <h1 id="first">O mnie</h1>
+            <p><i>Opis strony.</i><br>Element head jest elementem języka html, dlatego umieścimy go pomiędzy znacznikami html. </p>
+        <hr>
+        <h1 id="second">Umiejętności</h1>
+            <p>W takiej sytuacji mówimy o tym, że znacznik <b>&lt;html&gt;</b> jest rodzicem znacznika <strong>&lt;head&gt;</strong> i w drugą stronę, że ten ostatni jest dzieckiem tego pierwszego. </p>
+        <table>
+          <thead>
+              <tr>
+                  <th scope="col">table heading 1</th>
+                  <th scope="col">table heading 2</th>
+                  <th scope="col">table heading 3</th>
+            </tr>
+          </thead>
+          <tbody>
+              <tr>
+                  <td scope="row">row 1 column 1</td>
+                  <td scope="row">row 1 column 2</td>
+                  <td scope="row">row 1 column 3</td>
+                </tr>
+                <tr>
+                    <td scope="row">row 2 column 1</td>
+                    <td scope="row">row 2 column 2</td>
+                    <td scope="row">row 2 column 3</td>
+                </tr>
+          </tbody>
+        </table>
+        <hr>
+        <h1 id="firth">Portfolio</h1>
+        <p><b>definition list:</b></p>
+        <dl>
+          <dt>definition term</dt>
+          <dd>definition description</dd>
+          <dt>Html</dt>
+          <dd>Język opisu stron internetowych</dd>
+         </dl>
+        <h3>Lista nieuporządkowana</h3>
+        <ul>
+          <li>element listy</li>
+          <ul><li>zagnieżdzony element listy</li></ul>
+        </ul>
+            <p>Lorem ipsum dolor sit amet <br> nowy wiersz i spacja niełamliwa &nbsp;&nbsp;&nbsp;&nbsp;adipiscing elit. Aenean commodo ligula eget dolor. <br> Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <br>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. </p>  
+            <p><s>Dziś promocja na Crocsy w Lidlu</s> Wyprzedane.<br>Powiedzmy to sobie szczerze wyrazy połączone spacją w cale, w ogóle nie&nbsp;mogą&nbsp;być&nbsp;rozdzielone. </p>
+        <hr>
+        <h1 id="fourth">Kontakt</h1>
+      <section>
+        <span class="mail">
+          email:
+        </span>
+        <a href="mailto:rkalnik@gmail.com"><i>rkalnik@gmail.com</i></a><br><br>
+        <span class="skype">
+           skype: 
+        </span>
+        <a href="skype:rkalnik?call">rkalnik</a>        
+          <form name="mailForm" action="send_mail.php" method="POST">
+            <h2>Napisz do mnie</h2>
+            <hr><br>
+            <div id="mainForm">
+              <!-- zagniezdzo element <input> wewnątrz elementu <label> -->
+              <label>Temat:<br><input type="text" name="title"><br></label>
+              <!-- to samo co wyżej tylko przypisanie elementu label do input odbywa sie poprzez atrybut for i id -->
+              <label for="email">Twój adres email : </label><br>
+              <input type="text" name="email"><br>
+              <label>Twoja wiadomość:<br><textarea name="message"></textarea><br></label>
+              <input type="submit" value="Wyślij">
+            </div>
+          </form>
+            <hr><br>
+            <address>
+            44-100 Gliwice<br>
+            ul. Bojkowska 37<br>
+            Rafał Kalnik
+          </address><br>
+      </section>
+      </div>
+    </main>   
+    <footer>
+        <a href="http://videokurs.pl" target="_blank"><mark>link</mark></a><br>
+        &copy; 2019 rkalnik
+    </footer>  
+  </body>
+</html>
